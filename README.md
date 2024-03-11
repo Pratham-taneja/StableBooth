@@ -1,0 +1,2 @@
+# StableBooth
+a method to personalize text-to-image models for generating fully-novel photorealistic images of a subject in various contexts. Their approach involves fine-tuning a pretrained text-to-image model with a few reference images to learn a unique identifier for the subject. By leveraging the semantic prior embedded in the model and a new autogenous class-specific prior preservation loss, the technique can synthesize the subject in diverse scenes, poses, views, and lighting conditions while preserving their key features.
